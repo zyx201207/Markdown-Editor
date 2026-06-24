@@ -1,7 +1,7 @@
 # Markdown-Editor
 极简的离线Markdown编辑器，集成了 KaTeX、MathJax2/3 作为 LaTeX 渲染引擎，可选择使用 KaTeX/MathJax3默认参数/MathJax3自定义参数/MathJax2自定义参数 渲染 LaTeX。
 
-<details style="cursor: pointer;">
-  <summary>注意</summary>
+<details style="border-left-width: 5px; border-left-color: rgb(255,193,22);">
+  <summary style="color: rgb(255,193,22);">注意</summary>
 <p>由于<del>没有条件</del>懒得上Git，我用7-Zip把164MB的文件愣压到了22MB，在只有8GB内存的机子上不要解压，小心把电脑卡死哦~</p>
 </details>
